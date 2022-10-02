@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ovino.App.frontend
+build_property.RootNamespace = ovino.App.frontend
+build_property.ProjectDir = C:\CuidadoOvinog4\cuidadofrontend.App\ovino.App.frontend\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\CuidadoOvinog4\cuidadofrontend.App\ovino.App.frontend
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/Listas/CuidadoOvino.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFzXEN1aWRhZG9Pdmluby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/Listas/DuenoOvino.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFzXER1ZW5vT3Zpbm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/Listas/HistoriaClinica.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFzXEhpc3RvcmlhQ2xpbmljYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/Listas/MedicoVet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFzXE1lZGljb1ZldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/Listas/Ovejas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFzXE92ZWphcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/Listas/VisitaDomiciliaria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlzdGFzXFZpc2l0YURvbWljaWxpYXJpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/CuidadoOvinog4/cuidadofrontend.App/ovino.App.frontend/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d7r8ebwe8w

@@ -1,0 +1,20 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-image: url('https://www.lanuevacronica.com/imagenes/articulos/a-la-contra-19-04-2018.jpg');
+  color :#FFFFFF;
+}
